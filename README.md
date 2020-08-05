@@ -25,4 +25,4 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native.
  <br/> 🌱 Atualmente estou aprendendo Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, em especial IA, livros, jogos de maneira geral,xadrez e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Kauã_Steliano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauã-steliano-107620181/)]https://www.linkedin.com/in/kauã-steliano-107620181/)
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Kauã_Steliano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauã-steliano-107620181/)](https://www.linkedin.com/in/kauã-steliano-107620181/)
