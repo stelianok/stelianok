@@ -1,5 +1,4 @@
 <p align="center">
-<p align="center">
   <a href="#">
     <img align="center" width="280" src="https://i.imgur.com/wCySzd1.png" />
   </a>
@@ -8,10 +7,10 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="left"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelianok&layout=compact"
     />
   </a>
@@ -22,7 +21,6 @@
       src="https://github-readme-stats.vercel.app/api?username=stelianok&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
-</p>
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
