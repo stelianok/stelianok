@@ -7,10 +7,10 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelianok&layout=compact"
     />
   </a>
@@ -22,6 +22,7 @@
     />
   </a>
 </p>
+</br>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ### I'm a software engineer, currently focused on fullstack development. :computer:
