@@ -3,7 +3,7 @@
     <img align="center" width="280" src="https://i.imgur.com/wCySzd1.png" />
   </a>
   <a href="#">
-    <img align="center" width="300" src="https://i.imgur.com/ssCtz5L.png.gif" />
+    <img align="center" width="510" src="https://i.imgur.com/ssCtz5L.png.gif" />
   </a>
 </p>
 
