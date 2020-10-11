@@ -1,4 +1,5 @@
 <p align="center">
+<p align="center">
   <a href="#">
     <img align="center" width="280" src="https://i.imgur.com/wCySzd1.png" />
   </a>
@@ -22,7 +23,7 @@
     />
   </a>
 </p>
-</br>
+</p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ### I'm a software engineer, currently focused on fullstack development. :computer:
