@@ -25,7 +25,6 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ### I'm a software engineer, currently focused on fullstack development. :computer:
-- 🔭 I’m currently working on my undergraduate thesis. a mobile app created with react native, with a nodejs backend and a postgresql database.
 - 🌱 I’m currently improving my skills in Typescript, React.js, React Native and Nodejs
 - 👨‍💻 My Stack: ReactJS, Node.js, React Native e Typescript. </br>
 
