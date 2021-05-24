@@ -1,13 +1,4 @@
 <p align="center">
-  <a href="#">
-    <img align="center" width="280" src="https://i.imgur.com/wCySzd1.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="280" src="https://i.imgur.com/ssCtz5L.png.gif" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
